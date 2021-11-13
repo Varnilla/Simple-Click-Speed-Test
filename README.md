@@ -1,1 +1,2 @@
-# Simple-Click-Speed-Test
+# How to use
+Open `index.html` using your browser
